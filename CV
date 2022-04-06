@@ -31,3 +31,24 @@
 					<li>Baccalauréat</li>
 				</a>
 				<!--Link-->
+				<li><a href="https://www.cidj.com/etudes-formations-alternance/les-diplomes/licence-mass-mathematiques-appliquees-et-sciences-sociales">Licence MASS</a> (<a href="https://en.wikipedia.org/wiki/Paris_Diderot_University">Université Paris 7</a>)</li>
+				
+
+			</ul>
+			<p class="head">Experiences</p>
+			<ul>
+				<li>Enseignant-Chercheur</li>
+					<ul>
+						<li>MCF Université de Rouen</li>
+						<li>MCF Université Paris Est Créteil</li>
+						<li>PR Université Paris Est Créteil</li>
+					</ul>
+			</ul>
+			<p class="head">Parascolaires</p>
+			<ul>
+				<li>...</li>
+			</ul>
+		</div>
+		<div class="right"></div>
+		<div id="footer">
+			<h2 id="name">Pierre Valarcher</h2></div>
