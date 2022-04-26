@@ -5,7 +5,7 @@ font-weight: normal;
 font-style: normal;
 }
 
-.body {
+body {
 }
 
 .espace-gauche{
