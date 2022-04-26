@@ -7,11 +7,13 @@ font-size: 15px;
 
 .photo{
 height: 250px;
+
 }
 .infos-photo{
+  text-align: left;
 }
 .espace-gauche{
-;
+display: flex;
 }
 
 espace-droite{
