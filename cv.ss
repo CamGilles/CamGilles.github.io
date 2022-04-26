@@ -10,6 +10,7 @@ font-size: 15 px;
 .espace-gauche
 {
 float: left;
+margin-left: 150px;
 }
 
 .infos-photo
