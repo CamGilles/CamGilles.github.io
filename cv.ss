@@ -1,13 +1,8 @@
 @import url('https://fonts.googleeapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');*
+.page 
 {
-margin: 0;
-padding: O;
-box-sizing: border-box;
-font-family: 'Poppins', sans serif;
+width: 780 px;
+margin: auto;
+font-family: 'Poppins', sans-serif;
+font-size: 16 px;
 }
-body
-{
-backgound: light pink; 
-
-}
-
