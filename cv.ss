@@ -2,7 +2,7 @@
 wdith: 780px;
 margin: auto;
 font-face: 'Montserrat', Calibri, sans-serif;
-font-size: 16px;
+font-size: 26px;
 }
 
 
