@@ -29,10 +29,12 @@ section {
 h2{
 }
 
-gsec{
+.gsec{
+  float: left;
 }
 
-dsec{
+.dsec{
+  float: right;
 }
 
 banniere-bas{
