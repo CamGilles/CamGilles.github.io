@@ -9,9 +9,11 @@ font-style: normal;
 }
 
 .espace-gauche{
+float: left;
 }
 
 .espace-droite{
+float: right;
 }
 
 .section {
