@@ -1,6 +1,8 @@
 @font-face
 {
 font-family: 'Montserrat', sans-serif;
+font-weight: normal;
+font-style: normal;
 }
 
 .body {
