@@ -1,8 +1,8 @@
 .page{
-width: 780px;
+width: 880px;
 margin: auto;
 font-family: Montserrat, Calibri;
-font-size: 12px;
+font-size: 10px;
 }
 
 .photo{
@@ -15,7 +15,7 @@ height: 250px;
 .espace-gauche{
 display: flex;
 background-color: lightpink;
-  text-align: right;
+  text-align: Left;
 }
 
 espace-droite{
