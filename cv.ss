@@ -1,6 +1,6 @@
 @font-face
 {
-font-family: Montserrat, sans-serif;
+font-family: Open sans MS, sans-serif;
 font-weight: normal;
 font-style: normal;
 }
