@@ -1,7 +1,7 @@
 .page{
 wdith: 780px;
 margin: auto;
-font-face: 'Montserrat', Calibri, sans-serif;
+font-family: 'Montserrat', Calibri, sans-serif;
 font-size: 26px;
 }
 
