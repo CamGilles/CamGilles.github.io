@@ -19,7 +19,8 @@ border : 1px solid black
 
 espace-droite{
  display: flex;
- align-items: right;
+ align-items: justify;
+  margin left: 250px;
 }
 
 section {
