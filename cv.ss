@@ -1,11 +1,15 @@
 .page{
 wdith: 780px;
 margin: auto;
-font-family: 'Montserrat', Calibri, sans-serif;
+font-family: Calibri, sans-serif;
 font-size: 26px;
 }
 
+.photo{
 
+}
+.infos-photo{
+}
 .espace-gauche{
 ;
 }
