@@ -10,3 +10,7 @@ font-size: 15 px;
 {
 height: 250 px;
 }
+.photo
+{
+float: left;
+}
