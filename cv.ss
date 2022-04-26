@@ -8,26 +8,26 @@ font-style: normal;
 body {
 }
 
-.espace-gauche{
+espace-gauche{
 text-align: left;
 }
 
-.espace-droite{
+espace-droite{
 text-align: right;
 }
 
-.section {
+section {
 
 }
 
-.h2{
+h2{
 }
 
-.gsec{
+gsec{
 }
 
-.dsec{
+dsec{
 }
 
-.banniere-bas{
+banniere-bas{
 }
