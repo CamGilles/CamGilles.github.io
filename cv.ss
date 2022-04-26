@@ -9,11 +9,11 @@ font-style: normal;
 }
 
 .espace-gauche{
-position: left;
+text-align: left;
 }
 
 .espace-droite{
-float: right;
+text-align: right;
 }
 
 .section {
