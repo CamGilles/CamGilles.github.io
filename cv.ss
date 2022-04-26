@@ -1,4 +1,9 @@
-.page {
+@font-face
+{
+font-family: 'Montserrat', sans-serif;
+}
+
+.body {
 }
 
 .espace-gauche{
