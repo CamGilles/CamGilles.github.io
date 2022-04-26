@@ -9,7 +9,7 @@ font-style: normal;
 }
 
 .espace-gauche{
-float: left;
+position: left;
 }
 
 .espace-droite{
