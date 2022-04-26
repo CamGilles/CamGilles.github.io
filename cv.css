@@ -2,7 +2,7 @@
 width: 780px;
 margin: auto;
 font-family: Montserrat, Calibri;
-font-size: 15px;
+font-size: 12px;
 }
 
 .photo{
@@ -14,7 +14,8 @@ height: 250px;
 }
 .espace-gauche{
 display: flex;
-  background-color: lightpink;
+background-color: lightpink;
+  text-align: right;
 }
 
 espace-droite{
