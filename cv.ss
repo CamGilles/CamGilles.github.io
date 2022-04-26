@@ -1,12 +1,12 @@
 .page{
 wdith: 780px;
 margin: auto;
-font-family: Calibri, sans-serif;
+font-family: Montserrat;
 font-size: 26px;
 }
 
 .photo{
-
+height: 250px;
 }
 .infos-photo{
 }
