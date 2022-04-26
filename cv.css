@@ -10,9 +10,9 @@ height: 25px;
 
 }
 
-jpg {
-width : 150px;
-height : 150px;
+img {
+max-width:100%;
+    height:auto;
 }
 
 .infos-photo{
