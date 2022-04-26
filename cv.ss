@@ -7,6 +7,10 @@ margin: auto;
 font-family: 'Poppins', sans-serif;
 font-size: 15 px;
 }
+.espace-gauche
+{
+float: left;
+}
 
 .infos-photo
 {
@@ -16,4 +20,9 @@ height: 250 px;
 .photo
 {
 float: left;
+}
+
+.espace-droite
+{
+float: right;
 }
