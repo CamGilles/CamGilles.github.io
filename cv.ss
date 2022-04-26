@@ -4,5 +4,9 @@
 width: 780 px;
 margin: auto;
 font-family: 'Poppins', sans-serif;
-font-size: 16 px;
+font-size: 15 px;
+}
+.infos-photo
+{
+height: 250 px;
 }
