@@ -15,7 +15,6 @@ display: flex;
 
 .infos-photo{
   text-align: left;
-  font-color: white;
 }
 
 .photoimg {
@@ -29,6 +28,7 @@ display: flex;
   background-color: #013328;
   text-align: Left;
   border : 1px solid black
+ font-color: white;
 }
 
 .espace-droite{
@@ -38,8 +38,7 @@ display: flex;
 
 section{
   box-shadow: 6px 6px 6px black;
-  
-
+ 
 }
 
 titre{
