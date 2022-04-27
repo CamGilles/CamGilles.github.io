@@ -22,7 +22,7 @@ display: flex;
 .photoimg {
   width: 200px;
 }
-
+.bannière
 
 .espace-gauche{
   padding: 1rem;
@@ -37,12 +37,14 @@ display: flex;
   margin-left: 1rem;
 }
 
-section {
+section{
+  box-shadow: 6px 6px 6px black;
+  
 
 }
 
-p{
-  box-shadow: 6px 6px 6px black;
+titre{
+  
 }
 
 .gsec{
