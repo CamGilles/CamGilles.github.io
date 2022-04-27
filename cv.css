@@ -1,20 +1,25 @@
 header {
   height: 8rem;
-  background-image: url('banniere.png');
+  background-image: url('abc.jpg');
   background-size: cover;
   margin-bottom: 1rem;
 }
-
+body{
+  background:linear-gradient();
+}
 .page{
-width: 880px;
+width: 1000px;
 margin: auto;
 font-family: Montserrat, Calibri;
 font-size: 10px;
 display: flex;
+background-color: bisque;
 }
 
 .infos-photo{
   text-align: left;
+  color: aliceblue;
+  font-size: medium;
 }
 
 .photoimg {
@@ -26,29 +31,16 @@ display: flex;
   display: flex;
   background-color: #013328;
   text-align: Left;
-  border : 1px solid black
- font-color: white;
+  border : 1px solid black;
 }
 
 .espace-droite{
   align-items: justify;
   margin-left: 1rem;
+  font-size: small;
 }
 
-section{
-  box-shadow: 6px 6px 6px black;
- 
-}
-
-titre{
-  
-}
-
-.gsec{
-  float: left;
-}
-
-.dsec{
+.desc{
   float: right;
 }
 
