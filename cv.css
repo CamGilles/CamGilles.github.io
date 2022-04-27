@@ -55,8 +55,9 @@ p{
 
 .footer {
     height: 8rem;
-    background-image: url('bannière.png');
-    background-size: cover;
-    margin-top: 1rem;
+  background-color: aqua;
+  background-image: url('bannière.png');
+  background-size: cover;
+  margin-bottom: 1rem;
 
 }
