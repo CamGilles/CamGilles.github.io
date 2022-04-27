@@ -15,7 +15,7 @@ display: flex;
 
 .infos-photo{
   text-align: left;
-  text-color: white;
+  font-color: white;
 }
 
 .photoimg {
