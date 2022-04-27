@@ -56,8 +56,7 @@ titre{
 }
 
 .footer {
-    height: 8rem;
-  background-color: aqua;
+  height: 8rem;
   background-image: url('bannière.png');
   background-size: cover;
   margin-bottom: 1rem;
