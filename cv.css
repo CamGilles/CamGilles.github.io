@@ -16,6 +16,7 @@ display: flex;
 
 .infos-photo{
   text-align: left;
+  color: white;
 }
 
 .photoimg {
@@ -40,7 +41,8 @@ section {
 
 }
 
-h2{
+p{
+  box-shadow: 6px 6px 6px black;
 }
 
 .gsec{
