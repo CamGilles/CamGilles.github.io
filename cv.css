@@ -1,4 +1,4 @@
-header {
+main-header {
   height: 8rem;
   background-image: url('bannière.png');
   background-size: cover;
@@ -20,7 +20,6 @@ display: flex;
 .photoimg {
   width: 200px;
 }
-.bannière
 
 .espace-gauche{
   padding: 1rem;
