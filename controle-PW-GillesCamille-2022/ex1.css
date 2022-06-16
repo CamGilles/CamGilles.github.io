@@ -20,7 +20,7 @@ div1{
 }
 
 div2{
-position: fixed;
+    position: fixed;
    top: 50px;
    left: 60px;
    width: 150px;
