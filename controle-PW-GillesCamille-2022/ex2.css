@@ -20,7 +20,7 @@ h1{
     margin-right: 150px;
     margin-left: 150px;
     text-align: justify;
-    font color: "purple"
+    color: darkblue;
 
 
 }
@@ -29,6 +29,7 @@ h2{
     margin-right: 150px;
     margin-left: 150px;
     text-align: justify;
+    color: darkcyan;
 
 }
 
@@ -36,6 +37,7 @@ h3{
     margin-right: 150px;
     margin-left: 150px;
     text-align: justify;
+    color: lightskyblue;
 
 }
 
@@ -43,6 +45,7 @@ h4{
     margin-right: 150px;
     margin-left: 150px;
     text-align: justify;
+    color: lightblue;
 
 
 }
