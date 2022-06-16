@@ -1,7 +1,10 @@
 html{
     scroll-behavior: smooth;
   }
+  
+head{
 
+}
 img{
     margin-left: 10px;
 }
@@ -16,6 +19,8 @@ div{
     margin-left: 150px;
     opacity: 100%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
 }
 p{
     margin-right: 150px;
@@ -40,6 +45,7 @@ h2{
     text-align: left;
     color: darkcyan;
     font-weight: bold;
+    box-shadow: 5px 5px 2px 1px lightblue;
 
 }
 
