@@ -1,7 +1,53 @@
 img{
-    text-align: center;
+    margin-left: 10px;
+}
+
+body{
+    background-color: lightblue;
+}
+div{
+    background-color: white;
+    margin-right:150px;
+    margin-left: 150px;
 }
 p{
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: justify;
+}
+
+h1{
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: justify;
+    font color: "purple"
+
+
+}
+
+h2{
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: justify;
+
+}
+
+h3{
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: justify;
+
+}
+
+h4{
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: justify;
+
+
+}
+
+ul{
     margin-right: 150px;
     margin-left: 150px;
     text-align: justify;
