@@ -15,36 +15,39 @@ p{
 }
 
 div1{ 
-    position: center;
+   
 
 }
 
 div2{
-    position: left;
-
+position: fixed;
+   top: 50px;
+   left: 60px;
+   width: 150px;
+   border-left: 2px solid black;
+   border-top: 2px solid black;
+   border-bottom: 2px solid black;
+  
 }
 
 div3{
-    position: center;
-
+   
 }
 
 div4{
-    position: top;
+    float: top;
 
 }
 
 div5{
-    position: bottom;
+    float: bottom;
 
 }
 
 div6{
-    position: right;
-
+  
 }
 
 div7{
-    position: bottom;
-
+   
 }
