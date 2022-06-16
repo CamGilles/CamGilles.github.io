@@ -14,7 +14,7 @@ div{
     background-color: white;
     margin-right:150px;
     margin-left: 150px;
-    opacity: 80%;
+    opacity: 100%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p{
@@ -29,6 +29,7 @@ h1{
     text-align: left;
     color: darkblue;
     font-weight: bold;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
    
 
 }
