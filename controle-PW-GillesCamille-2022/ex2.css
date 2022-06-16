@@ -1,14 +1,21 @@
+html{
+    scroll-behavior: smooth;
+  }
+
 img{
     margin-left: 10px;
 }
 
 body{
-    background-color: lightblue;
+    background: lightskyblue;
 }
+
 div{
     background-color: white;
     margin-right:150px;
     margin-left: 150px;
+    opacity: 80%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p{
     margin-right: 150px;
@@ -19,35 +26,36 @@ p{
 h1{
     margin-right: 150px;
     margin-left: 150px;
-    text-align: justify;
+    text-align: left;
     color: darkblue;
-
+    font-weight: bold;
+   
 
 }
 
 h2{
     margin-right: 150px;
     margin-left: 150px;
-    text-align: justify;
+    text-align: left;
     color: darkcyan;
+    font-weight: bold;
 
 }
 
 h3{
     margin-right: 150px;
     margin-left: 150px;
-    text-align: justify;
+    text-align: left;
     color: lightskyblue;
-
+    font-weight: bold;
 }
 
 h4{
     margin-right: 150px;
     margin-left: 150px;
-    text-align: justify;
+    text-align: left;
     color: lightblue;
-
-
+    font-weight: bold;
 }
 
 ul{
