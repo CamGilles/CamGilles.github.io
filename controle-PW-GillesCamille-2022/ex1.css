@@ -14,4 +14,37 @@ p{
 
 }
 
+div1{ 
+    position: center;
 
+}
+
+div2{
+    position: left;
+
+}
+
+div3{
+    position: center;
+
+}
+
+div4{
+    position: top;
+
+}
+
+div5{
+    position: bottom;
+
+}
+
+div6{
+    position: right;
+
+}
+
+div7{
+    position: bottom;
+
+}
